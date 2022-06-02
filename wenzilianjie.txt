@@ -1,8 +1,8 @@
 {
-//"spider":"https://yangguokai.github.io/yang/wenzilianjie.txt",
-//"spider":"https://yangguokai.github.io/yang/wenzilianjie.txt",
-"spider":"https://yangguokai.github.io/yang/wenzilianjie.txt",
-//"spider":"https://yangguokai.github.io/yang/wenzilianjie.txt",
+//"spider":"https://yangguokai.github.io/yang/wenzilianjie.jar",
+//"spider":"https://yangguokai.github.io/yang/wenzilianjie.jar",
+"spider":"https://yangguokai.github.io/yang/wenzilianjie.jar",
+//"spider":"https://yangguokai.github.io/yang/wenzilianjie.jar",
 "sites": [    
 {
       "key": "七七",
