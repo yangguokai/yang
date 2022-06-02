@@ -2704,4 +2704,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+  "spider": "https://yangguokai.github.io/yang/wenzilianjie.txt"
 }
